@@ -1,0 +1,14 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Learn.co Educational Content License	/Users/manon/Development/code/sinatra-basic-views-lab-london-web-career-031119/LICENSE.md	/^#Learn.co Educational Content License$/;"	function	line:1
+App	/Users/manon/Development/code/sinatra-basic-views-lab-london-web-career-031119/app.rb	/^class App < Sinatra::Base$/;"	class	line:3
+app	/Users/manon/Development/code/sinatra-basic-views-lab-london-web-career-031119/spec/spec_helper.rb	/^def app$/;"	method	line:14
+Sinatra Basic Views Lab	/Users/manon/Development/code/sinatra-basic-views-lab-london-web-career-031119/README.md	/^# Sinatra Basic Views Lab$/;"	function	line:1
+Objectives	/Users/manon/Development/code/sinatra-basic-views-lab-london-web-career-031119/README.md	/^## Objectives$/;"	function	line:3
+Instructions	/Users/manon/Development/code/sinatra-basic-views-lab-london-web-career-031119/README.md	/^## Instructions$/;"	function	line:8
+Step 1:	/Users/manon/Development/code/sinatra-basic-views-lab-london-web-career-031119/README.md	/^### Step 1:$/;"	function	line:16
+Step 2:	/Users/manon/Development/code/sinatra-basic-views-lab-london-web-career-031119/README.md	/^### Step 2:$/;"	function	line:20
